@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/rhnrod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhnrod&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhnrod&layout=compact&langs_count=8&theme=ayu-mirage"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhnrod&layout=compact&langs_count=8&theme=ayu-mirage"/>
 </div>
 
  <div style="display: inline_block"><br>
