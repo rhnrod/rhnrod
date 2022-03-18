@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 **Currently studying**: HTML, CSS e Javascript
 - 📫 rhnrod@gmail.com
-- ⚡ Perks: Jazz, Old animes & Books.
+- ⚡ Likes: Jazz, Old animes & Books.
 
 <div>
   <a href="https://github.com/rhnrod">
