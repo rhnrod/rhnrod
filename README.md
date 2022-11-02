@@ -1,7 +1,6 @@
 ## Hi, i'm Rhuan! 🙇🏻‍♂️
 
 - 👨🏻‍💻 **Currently studying**: HTML | CSS | Javascript | React
-- 📫 rhnrod@gmail.com
 - ⚡ Likes: Jazz, Old animes & Books.
 
 <div>
@@ -22,6 +21,6 @@
  
  <div>
   <a href="https://instagram.com/rhnrod" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rhnrod@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rhnroddev@vivaldi.net"><img src=https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=flat" alt="Vivaldi Badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rhuan-emanuel-6712b7135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
