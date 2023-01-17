@@ -4,13 +4,6 @@
 - 📬 **rhnrod@gmail.com**
 - ⚡ Likes: Jazz, Old animes & Books.
 
-<div>
-  <a href="https://github.com/rhnrod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhnrod&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="270em" align="right" style="vertical-align:middle" alt="GIF" src="https://cutewallpaper.org/21/90s-anime-scenery/lets-watch-the-moon-together-on-We-Heart-It.gif">
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhnrod&layout=compact&langs_count=8&theme=ayu-mirage"/>
-</div>
-
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
