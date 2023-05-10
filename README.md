@@ -1,6 +1,6 @@
 ## Hi, i'm Rhuan! 🙇🏻‍♂️
 
-- 👨🏻‍💻 **Currently studying**: Javascript | React | Vue
+- 👨🏻‍💻 **Currently studying**: Javascript | React | Vue | Python
 - 📬 **rhnrod@gmail.com**
 - ⚡ Likes: Jazz, Old animes & Books.
 
