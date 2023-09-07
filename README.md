@@ -1,6 +1,6 @@
 ## Hi, i'm Rhuan! 🙇🏻‍♂️
 
-- 👨🏻‍💻 **Currently studying**: Javascript | React | Vue | Python
+- 👨🏻‍💻 **Currently studying**: Javascript | React | Python
 - 📬 **rhnrod@gmail.com**
 - ⚡ Likes: Jazz, Old animes & Books.
 
@@ -11,6 +11,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+ <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
  
 </div>
 <br>
