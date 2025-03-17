@@ -5,7 +5,11 @@
 - ⚡ Likes: Jazz, Old animes & Books.
 
  <div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=git,vim,html,css,javascript,react,vue,sass,python,java,golang" />
+ <h2>Tools</h2>
+  <img align="center" src="https://skillicons.dev/icons?i=git,vim,docker" />
+  <br>
+  <h2>Techs</h2>
+  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,react,next,vue,python,flask,django" />
 </div>
 <br>
  
