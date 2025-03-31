@@ -10,18 +10,18 @@
   <br>
   <h2>Techs</h2>
   <figure>
-   <sup>JavaScript Ecosystem</sup><br>
+   <sup><b>JavaScript Ecosystem</b></sup><br>
    <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,next,vue" />
   </figure><br><br>
   
   <figure>
-   <sup>Python Ecosystem</sup><br>
+   <sup><b>Python Ecosystem</b></sup><br>
   <img align="center" src="https://skillicons.dev/icons?i=python,flask,django" />
   </figure><br><br>
 
     
   <figure>
-   <sup>Learning...</sup><br>
+   <sup><b>Learning...</b></sup><br>
   <img align="center" src="https://skillicons.dev/icons?i=golang,java" />
   </figure><br><br>
 </div>
