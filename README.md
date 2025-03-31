@@ -6,10 +6,24 @@
 
  <div style="display: inline_block"><br>
  <h2>Tools</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=git,vim,docker" />
+  <img align="center" src="https://skillicons.dev/icons?i=git,linux,vim,docker,sequelize" />
   <br>
   <h2>Techs</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,react,next,vue,python,flask,django" />
+  <figure>
+   <sup>JavaScript Ecosystem</sup><br>
+   <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,next,vue" />
+  </figure><br><br>
+  
+  <figure>
+   <sup>Python Ecosystem</sup><br>
+  <img align="center" src="https://skillicons.dev/icons?i=python,flask,django" />
+  </figure><br><br>
+
+    
+  <figure>
+   <sup>Learning...</sup><br>
+  <img align="center" src="https://skillicons.dev/icons?i=golang,java" />
+  </figure><br><br>
 </div>
 <br>
  
