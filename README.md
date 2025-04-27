@@ -11,7 +11,7 @@
   <h2>Techs</h2>
   <figure>
    <sup><b>JavaScript Ecosystem</b></sup><br>
-   <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,next,vue" />
+   <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,next,vue,electron" />
   </figure><br><br>
   
   <figure>
