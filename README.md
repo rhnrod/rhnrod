@@ -6,7 +6,7 @@
 
  <div style="display: inline_block"><br>
  <h2>Tools</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=git,linux,vim,docker,sequelize" />
+  <img align="center" src="https://skillicons.dev/icons?i=git,linux,vim,docker,sequelize,redis" />
   <br>
   <h2>Techs</h2>
   <figure>
