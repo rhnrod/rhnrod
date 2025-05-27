@@ -1,12 +1,10 @@
 ## Hi, i'm Rhuan! 🇺🇸
 
-- 👨🏻‍💻 **Currently studying**: ADVPL & TLPP | Python | Java | Go | Lua
 - 📬 **rhnrod@gmail.com**
 - ⚡ Likes: Jazz, Old animes & Books.
 
 ## Oi, eu sou o Rhuan! 🇧🇷
 
-- 👨🏻‍💻 **Atualmente estudando**: ADVPL & TLPP | Python | Java | Go | Lua
 - 📬 **rhnrod@gmail.com**
 - ⚡ Gosto de: Jazz, Animes antigos & Livros.
 
