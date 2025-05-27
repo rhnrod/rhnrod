@@ -28,7 +28,7 @@
     
   <figure>
    <sup><b>Learning...</b></sup><br>
-  <img align="center" src="https://skillicons.dev/icons?i=golang,java,c,lua" />
+  <img align="center" src="https://skillicons.dev/icons?i=golang,java,c,lua,dart,flutter" />
   </figure><br><br>
 </div>
 <br>
