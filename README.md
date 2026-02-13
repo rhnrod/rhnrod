@@ -22,13 +22,7 @@
    <sup><b>Python Ecosystem</b></sup><br>
   <img align="center" src="https://skillicons.dev/icons?i=python,flask,django" />
   </figure><br><br>
-
-    
-  <figure>
-   <sup><b>Learning...</b></sup><br>
-  <img align="center" src="https://skillicons.dev/icons?i=golang,java,c,lua,dart,flutter" />
-  </figure><br><br>
-</div>
+  </div>
 <br>
  
  <div>
