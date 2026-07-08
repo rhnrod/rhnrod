@@ -3,17 +3,7 @@
 - 📬 **rhnrod@gmail.com**
 - ⚡ Likes: Jazz, Old animes & Books.
 
- <div style="display: inline_block"><br>
- <h2>Tools</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=git,linux" />
-  <br>
-  <h2>Techs</h2>
-  <figure>
-   <sup><b>Go Ecosystem</b></sup><br>
-  <img align="center" src="https://skillicons.dev/icons?i=go" />
-  </figure><br><br>
-  </div>
-<br>
+ <div style="display: inline_block"><br><br>
  
  <div>
  <a href="https://www.linkedin.com/in/rhuan-emanuel-6712b7135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
