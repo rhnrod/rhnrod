@@ -1,26 +1,16 @@
-## Hi, i'm Rhuan! 🇺🇸
+## Hi, i'm Rhuan!
 
 - 📬 **rhnrod@gmail.com**
 - ⚡ Likes: Jazz, Old animes & Books.
 
-## Oi, eu sou o Rhuan! 🇧🇷
-
-- 📬 **rhnrod@gmail.com**
-- ⚡ Gosto de: Jazz, Animes antigos & Livros.
-
  <div style="display: inline_block"><br>
  <h2>Tools</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=git,linux,vim,docker,sequelize,redis" />
+  <img align="center" src="https://skillicons.dev/icons?i=git,linux" />
   <br>
   <h2>Techs</h2>
   <figure>
-   <sup><b>JavaScript Ecosystem</b></sup><br>
-   <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,next,vue,electron" />
-  </figure><br><br>
-  
-  <figure>
-   <sup><b>Python Ecosystem</b></sup><br>
-  <img align="center" src="https://skillicons.dev/icons?i=python,flask,django" />
+   <sup><b>Go Ecosystem</b></sup><br>
+  <img align="center" src="https://skillicons.dev/icons?i=go" />
   </figure><br><br>
   </div>
 <br>
