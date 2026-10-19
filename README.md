@@ -1,7 +1,13 @@
 ## Hi, i'm Rhuan!
 
 - 📬 **rhnrod@gmail.com**
-- ⚡ Likes: Jazz, Old animes & Books.
+- ⚡ Likes: Jazz, Rock, Emo, Old animes & Books.
+- 📚 Readlist:
+  - [ ] ABC de Castro Alves, Jorge Amado;
+  - [ ] Learning JavaScript Data Structures and Algorithms 3rd ed., Loiane Groner;
+  - [ ] The Pragmatic Programmer, Andy Hunter, Dave Thomas
+ 
+
  <div style="display: inline_block"><br>
  <br>
  <div>
